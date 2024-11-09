@@ -1,9 +1,16 @@
 
-🎵11月8日测试有效，失效已去除,#genre#
+🎵11月9日测试有效，此源非内部源！,#genre#
+V6看不了请查看网盘常见问题汇总,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
 IPV4源会标记(V4),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
 IPV6源会标记(V6),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
-V6看不了请查看网盘常见问题汇总,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
 ipv4测试台CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0CCTV2,http://121.232.187.4:6000/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路33』
+建议每三五天重新打开源,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+您的三连是我长期维护的动力,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+无偿分享请您知悉,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+确保更新频道地址去除失效,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+请不要把源分享给群外人员,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+防止源外传，定期更换内部源地址,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+内部源请查看群精华信息,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
 伍佰-挪威的森林(演唱会),http://em.21dtv.com/songs/60032810.mkv
 伍佰-突然的自我(演唱会),http://em.21dtv.com/songs/60042927.mkv
 伍佰-美丽新世界(演唱会),http://em.21dtv.com/songs/60029283.mkv
@@ -14,13 +21,6 @@ ipv4测试台CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693
 制作不易请给我点赞,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 容祖儿+古巨基-情义两心坚(演唱会),http://em.21dtv.com/songs/60035407.mkv
 容祖儿-去火星恋爱(演唱会),http://em.21dtv.com/songs/60035841.mkv
-建议每三五天重新打开源,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
-您的三连是我长期维护的动力,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-无偿分享请您知悉,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-确保更新频道地址去除失效,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
-请不要把源分享给群外人员,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
-韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
 韩国太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
 韩国太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
 韩国太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
@@ -62,6 +62,31 @@ ipv4测试台CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693
 
 👉QQ群1002492341（V4）,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-2,http://39.134.65.173/PLTV/88888888/224/3221225599/1.m3u8
+CCTV-3,http://39.134.65.173/PLTV/88888888/224/3221225799/1.m3u8
+CCTV-4,http://39.134.65.173/PLTV/88888888/224/3221225797/1.m3u8
+CCTV-4,http://8.138.7.223/tv/dwqws.m3u8
+CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
+CCTV-5,http://39.134.65.173/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-6,http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
+CCTV-7,http://39.134.65.173/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-8,http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
+CCTV-9,http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
+CCTV-10,http://39.134.65.173/PLTV/88888888/224/3221225677/1.m3u8
+CCTV-11,http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8
+CCTV-12,http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
+CCTV-13,http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
+CCTV-13,http://39.134.65.173/PLTV/88888888/224/3221226125/1.m3u8
+CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
+CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
+CCTV-15,http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-15,http://39.134.65.173/PLTV/88888888/224/3221226127/1.m3u8
+CCTV-16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://mtw.so/5NPX0U
+
+👉QQ群1002492341（V4）,#genre#
+CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-10,http://39.134.65.173/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-11,http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8
 CCTV-12,http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
@@ -85,33 +110,30 @@ CCTV-9,http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
 
-👉央视备用（山东服务器抓取）（v4）,#genre#
-CCTV10,http://kxrj.site:998/123/mg.php?id=cctv10
-CCTV11,http://kxrj.site:998/123/mg.php?id=cctv11
-CCTV12,http://kxrj.site:998/123/mg.php?id=cctv12
-CCTV13,http://kxrj.site:998/123/mg.php?id=cctv13
-CCTV14,http://kxrj.site:998/123/mg.php?id=cctv14
-CCTV15,http://kxrj.site:998/123/mg.php?id=cctv15
-CCTV2,http://kxrj.site:998/123/mg.php?id=cctv2
-CCTV4,http://kxrj.site:998/123/mg.php?id=cctv4
-CCTV5+,http://kxrj.site:998/123/mg.php?id=cctv5p
-CCTV5,http://kxrj.site:998/123/mg.php?id=cctv5
-CCTV6,http://kxrj.site:998/123/mg.php?id=cctv6
+👉央视频小白抓包（v4）,#genre#
+CCTV1,http://hlslive-tx-cdn.ysp.cctv.cn/C19A2B8554BB087BA6F89B97E4F9E2CCF080E91C998C586CCD70E03F62D716D40C2246F9DA0130FADCF7387B52AEC6427F3DBA1D2A34A9CAF36FE7DEE9486C986364BE38A4000AD0757BA8EA012DBAE1518117ECCE472B8403B278A75EF5B75A54D0376BAC406A32C26F71BA50BEB0E7117DCC4639203A82A828A6D3EC4BFE35DD23E7EF688F715715CC138159B279F6895EFED45FCB94DE794A411C55AA31A630FBBD23EC117D082B4C564BF4FE708B/2024078203.m3u8
+CCTV1,http://39.135.133.167/wh7f454c46tw2432025760_-1329101561/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://39.135.133.176/wh7f454c46tw2622471537_2091783107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3,http://39.135.133.162/wh7f454c46tw2676563180_-1030116792/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://39.135.133.174/wh7f454c46tw2714265842_-512609147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?icpid=88888888&RTS=1731162297&from=23&hms_devid=1252&online=1731162297&vqe=3
+CCTV5,http://39.135.133.157/wh7f454c46tw2742470901_-1583507080/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
-CCTV8,http://kxrj.site:998/123/mg.php?id=cctv8
-CCTV9,http://kxrj.site:998/123/mg.php?id=cctv9
-CCTV俄语,http://kxrj.site:998/123/mg.php?id=cgtnr
-CCTV西班牙语,http://kxrj.site:998/123/mg.php?id=cgtne
+CCTV7,http://39.135.133.158/wh7f454c46tw2878791451_-1468632501/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://39.135.133.172/wh7f454c46tw2917249403_607571412/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://39.135.133.177/wh7f454c46tw2949178150_1539017046/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://39.135.133.179/wh7f454c46tw2978656234_-263061604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://39.135.133.174/wh7f454c46tw3025732740_236201208/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://39.135.133.167/wh7f454c46tw3054000941_-190080959/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://39.135.133.161/wh7f454c46tw3076304483_-1628001529/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV14,http://39.135.133.146/wh7f454c46tw3120674689_-1902092539/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15,http://39.135.133.176/wh7f454c46tw3145709205_-1371964330/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://39.135.133.181/wh7f454c46tw3179531539_1574960566/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://39.135.133.172/wh7f454c46tw3203531499_171507867/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGT俄语,http://kxrj.site:998/123/mg.php?id=cgtnr
-CGT阿语,http://kxrj.site:998/123/mg.php?id=cgtna
-CT4欧洲,http://kxrj.site:998/123/mg.php?id=cctv4o
-CT4美洲,http://kxrj.site:998/123/mg.php?id=cctv4a
-老故事台,http://kxrj.site:998/123/mg.php?id=lgs
 
 🇨🇳中央电视台（V6）,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8

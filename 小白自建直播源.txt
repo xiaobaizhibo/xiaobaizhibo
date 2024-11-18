@@ -1,5 +1,5 @@
 
-🎵11月9日测试有效，此源非内部源！,#genre#
+🎵11月18日测试有效，此源非内部源！,#genre#
 V6看不了请查看网盘常见问题汇总,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
 IPV4源会标记(V4),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
 IPV6源会标记(V6),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
@@ -96,7 +96,7 @@ CCTV17,http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/57/
 CCTV4欧洲,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=e6cc1794f6fcadb3bdaddc7e9925b09b&mdspid=&spid=699004&netType=4&sid=2200179315&pid=2028597139&timestamp=20241118172843&Channel_ID=0116_2600031500-99000-201600010010029&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=113.9.223.230&SecurityKey=20241118172843&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-7.11.1-RELEASE&userid=1131718435&jmhm=e6cc1794f6fcadb3bdaddc7e9925b09b&videocodec=h264&bean=mgspad&tid=android&mtv_session=407c6dbc2c8b539a76d1fe953d12b66a&sv=10004&ct=android&playUrlSsn=15c61b72eb86b160ac87386fb8650af51731922123459&prlId=15c61b72eb86b160ac87386fb8650af51731922123474&jid=15c61b72eb86b160ac87386fb8650af51731922123305V&is_advertise=0&sjid=subsession_1731922123488&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a30d529bf7cb7223eed6e23bf2c80e61
 
 CCTV4中文国际美洲,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=e6cc1794f6fcadb3bdaddc7e9925b09b&mdspid=&spid=699004&netType=4&sid=2200179344&pid=2028597139&timestamp=20241118172911&Channel_ID=0116_2600031500-99000-201600010010029&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=113.9.223.230&SecurityKey=20241118172911&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-7.11.1-RELEASE&userid=1131718435&jmhm=e6cc1794f6fcadb3bdaddc7e9925b09b&videocodec=h264&bean=mgspad&tid=android&mtv_session=cf0347bc1ec323c228c86204b7ef9fbc&sv=10004&ct=android&playUrlSsn=15c61b72eb86b160ac87386fb8650af51731922151682&prlId=15c61b72eb86b160ac87386fb8650af51731922151683&jid=15c61b72eb86b160ac87386fb8650af51731922151535V&is_advertise=0&sjid=subsession_1731922151699&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c69951ec9f8dc503c2cff53006e37ec5
-📺多线路频道(V4),#genre#
+📺QQ群1002492341多线路频道(V4),#genre#
 CCTV-1,http://113.218.190.140:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://[2409:8087:74d9:21::6]/270000001128/9900000001/index.m3u8
